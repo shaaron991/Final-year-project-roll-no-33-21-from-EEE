@@ -3,5 +3,5 @@
 # Dataset               - Dataset link is provided with (+6000 photos)
 # Library               - Install the required libraries from the file ""
 # Model Code            - The model training code is given in the file "model_code.py".
-# Pre-trained File      - The trained model is saved as ".pt" file.
+# Pre-trained File      - The trained model is saved as "best.pt" file.
 # Webcam Implementation - Follow "webcam implementation code in vs code terminal.txt" file steps to implement real time AI detection.
