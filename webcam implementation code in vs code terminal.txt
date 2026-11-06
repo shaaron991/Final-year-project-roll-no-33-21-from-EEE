@@ -1,0 +1,6 @@
+Run these cmds to run the web cam using the model yolo:
+1) cd C:\Users\TBI\OneDrive\Desktop\MINOR_PROJECT2
+2) Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+3) .\venv\Scripts\Activate.ps1
+4) cd .\driver-drowsiness-detection-main
+5) python main.py
