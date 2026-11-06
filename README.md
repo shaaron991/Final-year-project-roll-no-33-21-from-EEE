@@ -1,6 +1,7 @@
-# Title - "Drowsiness Detection using YOLOv8 model" - (similar as CNN model).
-# Aim   - to implement a real time monitoring drowsiness of the user through the laptop webcam.
-# Dataset - dataset link is provided with (+6000 photos)
-# Model Code - the model training code is given in the file "model_code.py".
-# Pretrained File - the trained model is saved as ".pt" file.
-# Webcam Implementation - see 
+# Title                 - "Drowsiness Detection using YOLO-v8 model" - (similar as CNN model).
+# Aim                   - To implement a real time monitoring drowsiness of the user through the laptop webcam.
+# Dataset               - Dataset link is provided with (+6000 photos)
+# Library               - Install the required libraries from the file ""
+# Model Code            - The model training code is given in the file "model_code.py".
+# Pre-trained File      - The trained model is saved as ".pt" file.
+# Webcam Implementation - Follow "webcam implementation code in vs code terminal.txt" file steps to implement real time AI detection.
